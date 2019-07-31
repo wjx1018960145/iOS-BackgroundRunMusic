@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0AFB05B2-5194-4A65-86D6-FD30B9C6556C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0AFB05B2-5194-4A65-86D6-FD30B9C6556C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586167508.81380296</real>
+			<key>timeStoppedRecording</key>
+			<real>586167546.47550201</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>0AFB05B2-5194-4A65-86D6-FD30B9C6556C</string>
+		</dict>
+		<key>0C8B657B-B755-4E95-A697-891DBA1300CD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0C8B657B-B755-4E95-A697-891DBA1300CD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586172521.22076297</real>
+			<key>timeStoppedRecording</key>
+			<real>586172717.41287196</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>0C8B657B-B755-4E95-A697-891DBA1300CD</string>
+		</dict>
+		<key>13C52BBE-5839-4035-AA03-CDA18F999F88</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13C52BBE-5839-4035-AA03-CDA18F999F88.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586167569.64274704</real>
+			<key>timeStoppedRecording</key>
+			<real>586167720.70903504</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>13C52BBE-5839-4035-AA03-CDA18F999F88</string>
+		</dict>
+		<key>1616D835-F57F-4ED5-85E6-35444EF13FDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1616D835-F57F-4ED5-85E6-35444EF13FDF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586171839.65167999</real>
+			<key>timeStoppedRecording</key>
+			<real>586172048.60055995</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>1616D835-F57F-4ED5-85E6-35444EF13FDF</string>
+		</dict>
+		<key>166913C5-CF4C-4453-A2B0-6864D43815D3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>166913C5-CF4C-4453-A2B0-6864D43815D3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586175529.80483997</real>
+			<key>timeStoppedRecording</key>
+			<real>586175685.80867302</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>166913C5-CF4C-4453-A2B0-6864D43815D3</string>
+		</dict>
+		<key>16A56AE4-0614-45BD-9FE4-6D0FD3B7AD28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16A56AE4-0614-45BD-9FE4-6D0FD3B7AD28.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586170636.49668801</real>
+			<key>timeStoppedRecording</key>
+			<real>586170658.25664604</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>16A56AE4-0614-45BD-9FE4-6D0FD3B7AD28</string>
+		</dict>
+		<key>16E7CF68-E138-4DA3-BE9A-5AEADFCD3DF9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16E7CF68-E138-4DA3-BE9A-5AEADFCD3DF9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586172728.95814395</real>
+			<key>timeStoppedRecording</key>
+			<real>586172848.961514</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>16E7CF68-E138-4DA3-BE9A-5AEADFCD3DF9</string>
+		</dict>
+		<key>24B190C1-BD74-4E08-AAC6-977B3B6C8AD1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24B190C1-BD74-4E08-AAC6-977B3B6C8AD1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586170454.52319205</real>
+			<key>timeStoppedRecording</key>
+			<real>586170593.716694</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>24B190C1-BD74-4E08-AAC6-977B3B6C8AD1</string>
+		</dict>
+		<key>2871FA12-4B47-48FE-B1F2-FC53FDC1BDB8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2871FA12-4B47-48FE-B1F2-FC53FDC1BDB8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586174907.02028799</real>
+			<key>timeStoppedRecording</key>
+			<real>586175308.43950999</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>2871FA12-4B47-48FE-B1F2-FC53FDC1BDB8</string>
+		</dict>
+		<key>37688DBC-D942-4361-8CCD-811597D4EEB9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>37688DBC-D942-4361-8CCD-811597D4EEB9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586167721.98777497</real>
+			<key>timeStoppedRecording</key>
+			<real>586170443.54742503</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>37688DBC-D942-4361-8CCD-811597D4EEB9</string>
+		</dict>
+		<key>3F29FC22-66CA-495E-8081-AA131AF3DF7A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F29FC22-66CA-495E-8081-AA131AF3DF7A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586170893.24398601</real>
+			<key>timeStoppedRecording</key>
+			<real>586171049.57572901</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>3F29FC22-66CA-495E-8081-AA131AF3DF7A</string>
+		</dict>
+		<key>3F40D6AE-1F55-493E-A3C3-B015E816CD77</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F40D6AE-1F55-493E-A3C3-B015E816CD77.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586174444.81407201</real>
+			<key>timeStoppedRecording</key>
+			<real>586174463.21079004</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>3F40D6AE-1F55-493E-A3C3-B015E816CD77</string>
+		</dict>
+		<key>8082797C-0CE2-4DA1-AD5C-6832631F38C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8082797C-0CE2-4DA1-AD5C-6832631F38C0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586172857.59861195</real>
+			<key>timeStoppedRecording</key>
+			<real>586174431.19733596</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>8082797C-0CE2-4DA1-AD5C-6832631F38C0</string>
+		</dict>
+		<key>833AB2A4-7C78-409A-86C4-99356CC1B29A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>833AB2A4-7C78-409A-86C4-99356CC1B29A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586171149.82178605</real>
+			<key>timeStoppedRecording</key>
+			<real>586171543.46663702</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>833AB2A4-7C78-409A-86C4-99356CC1B29A</string>
+		</dict>
+		<key>837B8FB3-6442-4121-9074-374F9B6A7A2E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>837B8FB3-6442-4121-9074-374F9B6A7A2E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586172060.28274</real>
+			<key>timeStoppedRecording</key>
+			<real>586172180.60109401</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>837B8FB3-6442-4121-9074-374F9B6A7A2E</string>
+		</dict>
+		<key>8E4A9F87-4BF9-46C9-BD7B-99B3C1F52685</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E4A9F87-4BF9-46C9-BD7B-99B3C1F52685.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586170729.31687105</real>
+			<key>timeStoppedRecording</key>
+			<real>586170882.53672004</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>8E4A9F87-4BF9-46C9-BD7B-99B3C1F52685</string>
+		</dict>
+		<key>91D84FCF-8283-48BC-A34A-BE58B336E826</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>91D84FCF-8283-48BC-A34A-BE58B336E826.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586171641.04384005</real>
+			<key>timeStoppedRecording</key>
+			<real>586171696.97689402</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>91D84FCF-8283-48BC-A34A-BE58B336E826</string>
+		</dict>
+		<key>ACE95298-DE03-4CE6-AB93-F15D7D0ED18B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ACE95298-DE03-4CE6-AB93-F15D7D0ED18B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586175319.44082999</real>
+			<key>timeStoppedRecording</key>
+			<real>586175520.56727695</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>ACE95298-DE03-4CE6-AB93-F15D7D0ED18B</string>
+		</dict>
+		<key>B1E173F0-CEF9-428F-A67D-77018797025C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B1E173F0-CEF9-428F-A67D-77018797025C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586172243.41137803</real>
+			<key>timeStoppedRecording</key>
+			<real>586172511.02574205</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E173F0-CEF9-428F-A67D-77018797025C</string>
+		</dict>
+		<key>CDAB940C-B0BD-474E-8B4C-053DCA395679</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CDAB940C-B0BD-474E-8B4C-053DCA395679.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586171705.85549402</real>
+			<key>timeStoppedRecording</key>
+			<real>586171830.57296705</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>CDAB940C-B0BD-474E-8B4C-053DCA395679</string>
+		</dict>
+		<key>F041BE36-C77F-452C-9628-172C535A8978</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F041BE36-C77F-452C-9628-172C535A8978.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586171058.36563301</real>
+			<key>timeStoppedRecording</key>
+			<real>586171150.03079295</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>F041BE36-C77F-452C-9628-172C535A8978</string>
+		</dict>
+		<key>F7C5F686-757D-44AC-B664-8A59CABB63FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7C5F686-757D-44AC-B664-8A59CABB63FC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundModeDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundModeDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>timeStartedRecording</key>
+			<real>586174471.78599596</real>
+			<key>timeStoppedRecording</key>
+			<real>586174897.93256199</real>
+			<key>title</key>
+			<string>Debug BackgroundModeDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>F7C5F686-757D-44AC-B664-8A59CABB63FC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
